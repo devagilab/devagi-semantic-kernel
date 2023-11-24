@@ -25,6 +25,9 @@ OPENAI_API_BASE="https://api.fe8.cn/v1"
 
 #### 第四步：运行`index.py`代码
 
+```
+pip install --upgrade semantic_kernel
+```
 
 
 ## 常见问题
